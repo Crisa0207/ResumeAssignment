@@ -1,0 +1,63 @@
+/* 
+COLOR PALETTE
+--blue-bell: #9297c4ff;
+--english-violet: #3b3355ff;
+--zomp: #2ca58dff;
+--dark-green: #01200fff;
+--manatee: #adaabfff;
+*/
+
+
+
+/* Global styles
+----------------------------------*/
+body {
+    color: #01200fff;
+}
+img {
+    width: 800px;
+}
+a {
+    color: aliceblue;
+}
+a:hover {
+    text-decoration: none;
+}
+
+
+/* Profile
+----------------------------------*/
+header {
+    background: #adaabfff;
+}
+
+/* Project
+----------------------------------*/
+.projects {
+    background: #9297c4ff;
+}
+.projects a {
+    color: darkblue;
+}
+.projects .btn {
+    color: azure;
+    background: #3b3355ff;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+.projects .btn:hover {
+    background: rgba(59, 51, 85, 80%);
+}
+
+/* Education
+----------------------------------*/
+
+
+
+/* Contact Info
+----------------------------------*/
+footer {
+    background: #2ca58dff;
+}
+
